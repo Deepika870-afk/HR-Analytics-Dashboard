@@ -8,6 +8,10 @@ Analyze employee distribution and employee status using Google Sheets.
 
 - Google Sheets
 
+## Google Sheets Dashboard
+
+- Google Sheets Link:https://docs.google.com/spreadsheets/d/1-yOX4xl3VQsA-5S1PW73_yYdVY0WEKhnh51CRBc_NZU/edit?usp=sharing
+
 ## Key Findings
 
 - Total Employees: 2845
